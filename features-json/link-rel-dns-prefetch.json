@@ -19,7 +19,7 @@
   ],
   "bugs":[
     {
-      "description":"Firefox only performs `dns-prefetch` on HTTP origins. The feature [is disabled on HTTPS](https://bugzilla.mozilla.org/show_bug.cgi?id=1596935)."
+      "description":"Firefox < 127 only performs `dns-prefetch` on HTTP origins. The feature [is disabled on HTTPS](https://bugzilla.mozilla.org/show_bug.cgi?id=1596935)."
     }
   ],
   "categories":[
@@ -88,7 +88,14 @@
       "122":"y",
       "123":"y",
       "124":"y",
-      "125":"y"
+      "125":"y",
+      "126":"y",
+      "127":"y",
+      "128":"y",
+      "129":"y",
+      "130":"y",
+      "131":"y",
+      "132":"y"
     },
     "firefox":{
       "2":"n",
@@ -218,9 +225,18 @@
       "124":"a #2",
       "125":"a #2",
       "126":"a #2",
-      "127":"a #2",
-      "128":"a #2",
-      "129":"a #2"
+      "127":"y",
+      "128":"y",
+      "129":"y",
+      "130":"y",
+      "131":"y",
+      "132":"y",
+      "133":"y",
+      "134":"y",
+      "135":"y",
+      "136":"y",
+      "137":"y",
+      "138":"y"
     },
     "chrome":{
       "4":"y",
@@ -346,7 +362,15 @@
       "125":"y",
       "126":"y",
       "127":"y",
-      "128":"y"
+      "128":"y",
+      "129":"y",
+      "130":"y",
+      "131":"y",
+      "132":"y",
+      "133":"y",
+      "134":"y",
+      "135":"y",
+      "136":"y"
     },
     "safari":{
       "3.1":"n",
@@ -391,6 +415,11 @@
       "17.4":"y",
       "17.5":"y",
       "17.6":"y",
+      "18.0":"y",
+      "18.1":"y",
+      "18.2":"y",
+      "18.3":"y",
+      "18.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -498,7 +527,11 @@
       "107":"y",
       "108":"y",
       "109":"y",
-      "110":"y"
+      "110":"y",
+      "111":"y",
+      "112":"y",
+      "113":"y",
+      "114":"y"
     },
     "ios_saf":{
       "3.2":"u",
@@ -541,7 +574,12 @@
       "17.3":"u",
       "17.4":"u",
       "17.5":"u",
-      "17.6":"u"
+      "17.6-17.7":"u",
+      "18.0":"u",
+      "18.1":"u",
+      "18.2":"u",
+      "18.3":"u",
+      "18.4":"u"
     },
     "op_mini":{
       "all":"n"
@@ -556,7 +594,7 @@
       "4.2-4.3":"u",
       "4.4":"u",
       "4.4.3-4.4.4":"u",
-      "125":"u"
+      "132":"u"
     },
     "bb":{
       "7":"u",
@@ -572,10 +610,10 @@
       "80":"y"
     },
     "and_chr":{
-      "125":"y"
+      "132":"y"
     },
     "and_ff":{
-      "126":"y"
+      "132":"y"
     },
     "ie_mob":{
       "10":"n",
@@ -606,7 +644,9 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y",
+      "27":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -622,10 +662,10 @@
   "notes":"",
   "notes_by_num":{
     "1":"IE9 [supported `dns-prefetch` as `prefetch`](https://blogs.msdn.com/b/ieinternals/archive/2012/03/01/ie10-beta-consumer-preview-minor-changes-changelist.aspx) as the former wasn\u2019t defined yet.",
-    "2":"Firefox only supports `dns-prefetch` on HTTP origins. HTTPS is unsupported."
+    "2":"Firefox < 127 only supports `dns-prefetch` on HTTP origins. HTTPS is unsupported."
   },
-  "usage_perc_y":80.51,
-  "usage_perc_a":2.46,
+  "usage_perc_y":82.2,
+  "usage_perc_a":0.5,
   "ucprefix":false,
   "parent":"",
   "keywords":"",
