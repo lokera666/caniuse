@@ -112,7 +112,14 @@
       "122":"y",
       "123":"y",
       "124":"y",
-      "125":"y"
+      "125":"y",
+      "126":"y",
+      "127":"y",
+      "128":"y",
+      "129":"y",
+      "130":"y",
+      "131":"y",
+      "132":"y"
     },
     "firefox":{
       "2":"n",
@@ -244,7 +251,16 @@
       "126":"y",
       "127":"y",
       "128":"y",
-      "129":"y"
+      "129":"y",
+      "130":"y",
+      "131":"y",
+      "132":"y",
+      "133":"y",
+      "134":"y",
+      "135":"y",
+      "136":"y",
+      "137":"y",
+      "138":"y"
     },
     "chrome":{
       "4":"n",
@@ -370,7 +386,15 @@
       "125":"y",
       "126":"y",
       "127":"y",
-      "128":"y"
+      "128":"y",
+      "129":"y",
+      "130":"y",
+      "131":"y",
+      "132":"y",
+      "133":"y",
+      "134":"y",
+      "135":"y",
+      "136":"y"
     },
     "safari":{
       "3.1":"n",
@@ -415,6 +439,11 @@
       "17.4":"y",
       "17.5":"y",
       "17.6":"y",
+      "18.0":"y",
+      "18.1":"y",
+      "18.2":"y",
+      "18.3":"y",
+      "18.4":"y",
       "TP":"y"
     },
     "opera":{
@@ -522,7 +551,11 @@
       "107":"y",
       "108":"y",
       "109":"y",
-      "110":"y"
+      "110":"y",
+      "111":"y",
+      "112":"y",
+      "113":"y",
+      "114":"y"
     },
     "ios_saf":{
       "3.2":"y x",
@@ -565,7 +598,12 @@
       "17.3":"y",
       "17.4":"y",
       "17.5":"y",
-      "17.6":"y"
+      "17.6-17.7":"y",
+      "18.0":"y",
+      "18.1":"y",
+      "18.2":"y",
+      "18.3":"y",
+      "18.4":"y"
     },
     "op_mini":{
       "all":"n"
@@ -580,7 +618,7 @@
       "4.2-4.3":"y x",
       "4.4":"y x",
       "4.4.3-4.4.4":"y x",
-      "125":"y"
+      "132":"y"
     },
     "bb":{
       "7":"y x",
@@ -596,10 +634,10 @@
       "80":"y"
     },
     "and_chr":{
-      "125":"y"
+      "132":"y"
     },
     "and_ff":{
-      "126":"y"
+      "132":"y"
     },
     "ie_mob":{
       "10":"a #1",
@@ -630,7 +668,9 @@
       "22":"y",
       "23":"y",
       "24":"y",
-      "25":"y"
+      "25":"y",
+      "26":"y",
+      "27":"y"
     },
     "and_qq":{
       "14.9":"y"
@@ -648,8 +688,8 @@
     "1":"Partial support in IE refers to not supporting [the transform-style: preserve-3d property](http://msdn.microsoft.com/en-us/library/ie/hh673529%28v=vs.85%29.aspx#the_ms_transform_style_property). This prevents nesting 3D transformed elements.",
     "2":"Safari 9-15.3 still require a prefix for the related `backface-visibility` property."
   },
-  "usage_perc_y":97.66,
-  "usage_perc_a":0.53,
+  "usage_perc_y":97.33,
+  "usage_perc_a":0.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"css 3d,3dtransforms,backface visibility,perspective,transform-origin,transform-style,rotatex,rotatey,rotatez,translate3d,translatez,scalez,rotate3d",
