@@ -413,7 +413,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -664,7 +665,7 @@
       "4.2-4.3":"n",
       "4.4":"a x #1",
       "4.4.3-4.4.4":"a x #1",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -680,7 +681,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -739,8 +740,8 @@
     "4":"Does not support omitting the resolution.",
     "5":"Does not support using `calc()` for the resolution."
   },
-  "usage_perc_y":90.13,
-  "usage_perc_a":7.07,
+  "usage_perc_y":91.91,
+  "usage_perc_a":4.78,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

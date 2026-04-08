@@ -401,7 +401,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -652,7 +653,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -668,7 +669,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -725,7 +726,7 @@
     "2":"Partial support in Edge 15+ refers to support for only the HTTP header format, not the `<link rel>` format.",
     "3":"Firefox support regressed from versions 71 - 114. See [bug 1543990](https://bugzilla.mozilla.org/show_bug.cgi?id=1543990) for details."
   },
-  "usage_perc_y":97.08,
+  "usage_perc_y":96.27,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

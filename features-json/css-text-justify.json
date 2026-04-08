@@ -409,7 +409,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -660,7 +661,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -676,7 +677,7 @@
       "80":"n d #2"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y #4"
@@ -734,7 +735,7 @@
     "3":"Behind the \"layout.css.text-justify.enabled\" flag",
     "4":"Supports `auto`, `none`, `inter-word`, `inter-character`, and `distribute` with the exact same meaning and behavior as `inter-character` for legacy reasons."
   },
-  "usage_perc_y":51.63,
+  "usage_perc_y":68.37,
   "usage_perc_a":0.29,
   "ucprefix":false,
   "parent":"",

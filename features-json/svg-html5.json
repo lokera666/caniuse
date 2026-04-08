@@ -408,7 +408,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"p",
@@ -659,7 +660,7 @@
       "4.2-4.3":"y #1",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"y #1",
@@ -675,7 +676,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -730,7 +731,7 @@
   "notes_by_num":{
     "1":"Does not support CSS transforms on SVG elements (transform attribute can be used instead)"
   },
-  "usage_perc_y":97.54,
+  "usage_perc_y":97.02,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

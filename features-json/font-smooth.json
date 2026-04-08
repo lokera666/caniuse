@@ -411,7 +411,8 @@
       "146":"a x #1 #3",
       "147":"a x #1 #3",
       "148":"a x #1 #3",
-      "149":"a x #1 #3"
+      "149":"a x #1 #3",
+      "150":"a x #1 #3"
     },
     "safari":{
       "3.1":"n",
@@ -662,7 +663,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"n",
@@ -678,7 +679,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"n"
+      "147":"n"
     },
     "and_ff":{
       "149":"n"
@@ -737,7 +738,7 @@
     "4":"Firefox 128 and later supports `-webkit-font-smoothing: antialiased` (by mapping to `-moz-osx-font-smoothing: grayscale`)"
   },
   "usage_perc_y":0,
-  "usage_perc_a":37.61,
+  "usage_perc_a":33.08,
   "ucprefix":false,
   "parent":"",
   "keywords":"font smooth,font smoothing,-webkit-font-smoothing,-moz-osx-font-smoothing",

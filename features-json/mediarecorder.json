@@ -402,7 +402,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -653,7 +654,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"n",
@@ -669,7 +670,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"n"
@@ -726,7 +727,7 @@
     "2":"Can be enabled using the Develop > Experimental Features menu.",
     "3":"Can be enabled using the Advanced > Experimental Features menu."
   },
-  "usage_perc_y":96.46,
+  "usage_perc_y":95.63,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"stream",

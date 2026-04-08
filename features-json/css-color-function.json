@@ -413,7 +413,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -664,7 +665,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -680,7 +681,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -737,8 +738,8 @@
     "2":"Available behind the [Experimental Web Platform features](chrome://flags/#enable-experimental-web-platform-features) flag",
     "3":"Can be enabled by setting about:config flag `layout.css.more_color_4.enabled` to true"
   },
-  "usage_perc_y":92.96,
-  "usage_perc_a":0.31,
+  "usage_perc_y":93.32,
+  "usage_perc_a":0.37,
   "ucprefix":false,
   "parent":"",
   "keywords":"color(),Display-P3,A98-RGB,ProPhoto-RGB,REC-2020,Device-Dependent Colors,Profiled Colors,@color-profile,color space",

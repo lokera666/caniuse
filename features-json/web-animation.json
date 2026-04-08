@@ -414,7 +414,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -665,7 +666,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -681,7 +682,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -740,8 +741,8 @@
     "4":"Can be enabled via the \"Experimental Features\" developer menu",
     "5":"Does not support [composite modes](https://drafts.csswg.org/web-animations-1/#effect-composition)"
   },
-  "usage_perc_y":96.8,
-  "usage_perc_a":0.2,
+  "usage_perc_y":95.48,
+  "usage_perc_a":0.96,
   "ucprefix":false,
   "parent":"",
   "keywords":"animate,element.animate,play,pause,reverse,finish,currentTime,startTime,playbackRate,playState,WAAPI",

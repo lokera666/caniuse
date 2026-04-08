@@ -425,7 +425,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -676,7 +677,7 @@
       "4.2-4.3":"p",
       "4.4":"p",
       "4.4.3-4.4.4":"p",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -692,7 +693,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -750,7 +751,7 @@
     "3":"Enabled in Firefox through the `layout.css.grid.enabled ` flag",
     "4":"There are some bugs with overflow ([1356820](https://bugzilla.mozilla.org/show_bug.cgi?id=1356820), [1348857](https://bugzilla.mozilla.org/show_bug.cgi?id=1348857), [1350925](https://bugzilla.mozilla.org/show_bug.cgi?id=1350925))"
   },
-  "usage_perc_y":97.2,
+  "usage_perc_y":96.08,
   "usage_perc_a":0.29,
   "ucprefix":false,
   "parent":"",

@@ -404,7 +404,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -655,7 +656,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -671,7 +672,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -726,7 +727,7 @@
   "notes_by_num":{
     "1":"Can be enabled in Firefox using the `layout.css.font-loading-api.enabled` flag. Enabled by default in Firefox 41. See [this bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1149381)"
   },
-  "usage_perc_y":97.21,
+  "usage_perc_y":96.72,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

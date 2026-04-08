@@ -421,7 +421,8 @@
       "146":"a",
       "147":"a",
       "148":"a",
-      "149":"a"
+      "149":"a",
+      "150":"a"
     },
     "safari":{
       "3.1":"n",
@@ -672,7 +673,7 @@
       "4.2-4.3":"n",
       "4.4":"a",
       "4.4.3-4.4.4":"a",
-      "146":"a"
+      "147":"a"
     },
     "bb":{
       "7":"n",
@@ -688,7 +689,7 @@
       "80":"a"
     },
     "and_chr":{
-      "146":"a"
+      "147":"a"
     },
     "and_ff":{
       "149":"a"
@@ -744,7 +745,7 @@
     
   },
   "usage_perc_y":0,
-  "usage_perc_a":97.54,
+  "usage_perc_a":97.02,
   "ucprefix":false,
   "parent":"",
   "keywords":"wai,aria,wai-aria,web accessibility initiative,accessible rich internet applications,html,a11y,accessible,aria-hidden,aria-labelledby,aria-haspopup,aria-expanded,aria-controls,roles",

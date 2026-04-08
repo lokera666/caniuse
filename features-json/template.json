@@ -412,7 +412,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -663,7 +664,7 @@
       "4.2-4.3":"n",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -679,7 +680,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -736,7 +737,7 @@
     "2":"Does not support Node.cloneNode on templates, nested templates or elements that contain templates.",
     "3":"Safari 6.2 has the same partial support as Safari 7.1."
   },
-  "usage_perc_y":97.21,
+  "usage_perc_y":96.72,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

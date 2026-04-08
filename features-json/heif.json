@@ -409,7 +409,8 @@
       "146":"n",
       "147":"n",
       "148":"n",
-      "149":"n"
+      "149":"n",
+      "150":"n"
     },
     "safari":{
       "3.1":"n",
@@ -660,7 +661,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"n",
@@ -676,7 +677,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"n"
+      "147":"n"
     },
     "and_ff":{
       "149":"n"
@@ -731,7 +732,7 @@
   "notes_by_num":{
     "1":"Was supported natively in macOS/iOS, but was not supported in Safari."
   },
-  "usage_perc_y":14.74,
+  "usage_perc_y":16.15,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

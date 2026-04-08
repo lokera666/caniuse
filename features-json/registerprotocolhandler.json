@@ -401,7 +401,8 @@
       "146":"y #1",
       "147":"y #1",
       "148":"y #1",
-      "149":"y #1"
+      "149":"y #1",
+      "150":"y #1"
     },
     "safari":{
       "3.1":"n",
@@ -652,7 +653,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"n",
@@ -668,7 +669,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"n"
+      "147":"n"
     },
     "and_ff":{
       "149":"n"
@@ -723,7 +724,7 @@
   "notes_by_num":{
     "1":"Supports protocols `mailto`, `mms`, `nntp`, `rtsp`, and `webcal` but requires custom protocols to start with `web+`"
   },
-  "usage_perc_y":34.84,
+  "usage_perc_y":30.07,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

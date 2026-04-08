@@ -406,7 +406,8 @@
       "146":"n",
       "147":"n",
       "148":"n",
-      "149":"n"
+      "149":"n",
+      "150":"n"
     },
     "safari":{
       "3.1":"n",
@@ -657,7 +658,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"n",
@@ -673,7 +674,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"n"
+      "147":"n"
     },
     "and_ff":{
       "149":"y x"
@@ -728,7 +729,7 @@
   "notes_by_num":{
     "1":"In Firefox < 4, usage is limited to the background and background-image CSS properties"
   },
-  "usage_perc_y":2.22,
+  "usage_perc_y":2.28,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

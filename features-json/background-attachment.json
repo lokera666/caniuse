@@ -409,7 +409,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"a #1",
@@ -660,7 +661,7 @@
       "4.2-4.3":"a #1",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"a #2",
@@ -676,7 +677,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -736,8 +737,8 @@
     "5":"Broken support of `fixed` and `local` when scrolling an outer scroll container. Related [to a bug](https://bugs.webkit.org/show_bug.cgi?id=219324).",
     "6":"`fixed` is recognized, but has no effect. See [bug 275247](https://bugs.webkit.org/show_bug.cgi?id=275247)."
   },
-  "usage_perc_y":81.77,
-  "usage_perc_a":15.59,
+  "usage_perc_y":80.08,
+  "usage_perc_a":16.86,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

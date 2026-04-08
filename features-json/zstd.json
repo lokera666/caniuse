@@ -421,7 +421,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -672,7 +673,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -688,7 +689,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -745,8 +746,8 @@
     "2":"Partial support refers to supporting Zstandard, but not requesting it",
     "3":"Requires macOS 26.3 Tahoe or later."
   },
-  "usage_perc_y":72.17,
-  "usage_perc_a":8.53,
+  "usage_perc_y":79.55,
+  "usage_perc_a":3.79,
   "ucprefix":false,
   "parent":"",
   "keywords":"RFC8878",

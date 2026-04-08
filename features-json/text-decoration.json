@@ -417,7 +417,8 @@
       "146":"a #5",
       "147":"a #5",
       "148":"a #5",
-      "149":"a #5"
+      "149":"a #5",
+      "150":"a #5"
     },
     "safari":{
       "3.1":"n",
@@ -668,7 +669,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -684,7 +685,7 @@
       "80":"a #5"
     },
     "and_chr":{
-      "146":"a #5"
+      "147":"a #5"
     },
     "and_ff":{
       "149":"a #4"
@@ -743,8 +744,8 @@
     "4":"Partial support refers to not supporting the `text-decoration-skip` property.",
     "5":"Partial support refers to `text-decoration-skip` only supporting value `objects` and `ink`."
   },
-  "usage_perc_y":0.15,
-  "usage_perc_a":97.07,
+  "usage_perc_y":0.05,
+  "usage_perc_a":96.03,
   "ucprefix":false,
   "parent":"",
   "keywords":"text-decoration-line,text-decoration-style,text-decoration-color,text-decoration-skip",

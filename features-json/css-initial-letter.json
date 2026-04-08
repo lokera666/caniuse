@@ -419,7 +419,8 @@
       "146":"a #2",
       "147":"a #2",
       "148":"a #2",
-      "149":"a #2"
+      "149":"a #2",
+      "150":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -670,7 +671,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"a #2"
+      "147":"a #2"
     },
     "bb":{
       "7":"n",
@@ -686,7 +687,7 @@
       "80":"a #2"
     },
     "and_chr":{
-      "146":"a #2"
+      "147":"a #2"
     },
     "and_ff":{
       "149":"n"
@@ -743,7 +744,7 @@
     "2":"Only supports the `initial-letter` property (not `initial-letter-align` or `initial-letter-wrap`)."
   },
   "usage_perc_y":0,
-  "usage_perc_a":91.38,
+  "usage_perc_a":91.52,
   "ucprefix":false,
   "parent":"",
   "keywords":"initial-letter,initial letter,letter,drop cap,dropcap,initial letters,letters",

@@ -401,7 +401,8 @@
       "146":"n",
       "147":"n",
       "148":"n",
-      "149":"n"
+      "149":"n",
+      "150":"n"
     },
     "safari":{
       "3.1":"u",
@@ -652,7 +653,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"a #1",
@@ -668,7 +669,7 @@
       "80":"a #1"
     },
     "and_chr":{
-      "146":"n"
+      "147":"n"
     },
     "and_ff":{
       "149":"n"
@@ -725,7 +726,7 @@
     "2":"Does not support `DOMNodeInsertedIntoDocument` & `DOMNodeRemovedFromDocument`"
   },
   "usage_perc_y":0,
-  "usage_perc_a":17.27,
+  "usage_perc_a":13.85,
   "ucprefix":false,
   "parent":"",
   "keywords":"DOMAttrModified,DOMCharacterDataModified,DOMNodeInserted,DOMNodeInsertedIntoDocument,DOMNodeRemoved,DOMNodeRemovedFromDocument,DOMSubtreeModified",

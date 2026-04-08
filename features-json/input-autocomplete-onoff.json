@@ -401,7 +401,8 @@
       "146":"a #2",
       "147":"a #2",
       "148":"a #2",
-      "149":"a #2"
+      "149":"a #2",
+      "150":"a #2"
     },
     "safari":{
       "3.1":"n",
@@ -652,7 +653,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"y",
@@ -668,7 +669,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -727,8 +728,8 @@
     "4":"Browser does not display previously submitted values as options with `on` value.",
     "5":"Safari ignores the `off` value for [username, email and password fields](https://stackoverflow.com/questions/22661977/disabling-safari-autofill-on-usernames-and-passwords)"
   },
-  "usage_perc_y":60.51,
-  "usage_perc_a":37.03,
+  "usage_perc_y":64.13,
+  "usage_perc_a":32.89,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

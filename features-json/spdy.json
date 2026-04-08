@@ -405,7 +405,8 @@
       "146":"n",
       "147":"n",
       "148":"n",
-      "149":"n"
+      "149":"n",
+      "150":"n"
     },
     "safari":{
       "3.1":"n",
@@ -656,7 +657,7 @@
       "4.2-4.3":"y",
       "4.4":"y",
       "4.4.3-4.4.4":"y",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"n",
@@ -672,7 +673,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"n"
+      "147":"n"
     },
     "and_ff":{
       "149":"n"
@@ -728,7 +729,7 @@
     "1":"Deprecated as of macOS Mojave 10.4.4. To be completely removed in a future version of macOS.",
     "2":"Deprecated as of iOS 12.2. To be completely removed in a future version of iOS."
   },
-  "usage_perc_y":16.57,
+  "usage_perc_y":18.44,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

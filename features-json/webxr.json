@@ -409,7 +409,8 @@
       "146":"a #1",
       "147":"a #1",
       "148":"a #1",
-      "149":"a #1"
+      "149":"a #1",
+      "150":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -660,7 +661,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"n",
@@ -676,7 +677,7 @@
       "80":"a #1"
     },
     "and_chr":{
-      "146":"a #1"
+      "147":"a #1"
     },
     "and_ff":{
       "149":"n d #2"
@@ -734,7 +735,7 @@
     "3":"Can be enabled in Safari with the `WebXR Device API` experimental feature."
   },
   "usage_perc_y":0,
-  "usage_perc_a":77.9,
+  "usage_perc_a":75.11,
   "ucprefix":false,
   "parent":"",
   "keywords":"navigator.xr",

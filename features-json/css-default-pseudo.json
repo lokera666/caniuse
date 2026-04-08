@@ -413,7 +413,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"u",
@@ -664,7 +665,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"u",
@@ -680,7 +681,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -736,8 +737,8 @@
     "1":"Does not match `<input type=\"checkbox\" checked>` or `<input type=\"radio\" checked>`",
     "2":"Does not match the default submit button of a form"
   },
-  "usage_perc_y":97.23,
-  "usage_perc_a":0.01,
+  "usage_perc_y":96.29,
+  "usage_perc_a":0.43,
   "ucprefix":false,
   "parent":"",
   "keywords":":default,default",

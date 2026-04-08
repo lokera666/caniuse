@@ -409,7 +409,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -660,7 +661,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"n",
@@ -676,7 +677,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"n d #1"
+      "147":"n d #1"
     },
     "and_ff":{
       "149":"y"
@@ -731,7 +732,7 @@
   "notes_by_num":{
     "1":"Enabled in Chrome & Opera through the \"experimental Web Platform features\" flag"
   },
-  "usage_perc_y":51.41,
+  "usage_perc_y":47.82,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

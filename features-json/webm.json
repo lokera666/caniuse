@@ -405,7 +405,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -656,7 +657,7 @@
       "4.2-4.3":"a #1",
       "4.4":"a #1",
       "4.4.3-4.4.4":"a #1",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -672,7 +673,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -734,8 +735,8 @@
     "7":"Safari 14.1 \u2013 15.6 has full support of WebM, but requires macOS 11.3 Big Sur or later.",
     "8":"Does not support alpha transparency"
   },
-  "usage_perc_y":95.8,
-  "usage_perc_a":1.31,
+  "usage_perc_y":95.27,
+  "usage_perc_a":1.25,
   "ucprefix":false,
   "parent":"video",
   "keywords":"matroska",

@@ -418,7 +418,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -669,7 +670,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -685,7 +686,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -741,7 +742,7 @@
     "1":"Supported in Firefox Nightly behind the `javascript.options.experimental.temporal` flag, enabled by default since 137",
     "2":"Can be enabled via the `useTemporal` runtime flag"
   },
-  "usage_perc_y":64.32,
+  "usage_perc_y":69.28,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

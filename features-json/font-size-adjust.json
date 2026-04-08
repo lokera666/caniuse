@@ -409,7 +409,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -660,7 +661,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -676,7 +677,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -733,8 +734,8 @@
     "2":"Missing support for two-value syntax. Issue for [Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=1219875).",
     "3":"Missing support for `from-font` value. Issue for [Chromium](https://bugs.chromium.org/p/chromium/issues/detail?id=1219875)."
   },
-  "usage_perc_y":85.39,
-  "usage_perc_a":0.76,
+  "usage_perc_y":88.12,
+  "usage_perc_a":0.75,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

@@ -406,7 +406,8 @@
       "146":"a #1",
       "147":"a #1",
       "148":"a #1",
-      "149":"a #1"
+      "149":"a #1",
+      "150":"a #1"
     },
     "safari":{
       "3.1":"n",
@@ -657,7 +658,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"n",
@@ -673,7 +674,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"a #3"
+      "147":"a #3"
     },
     "and_ff":{
       "149":"n"
@@ -732,8 +733,8 @@
     "4":"Supported, but does not actually use the color anywhere.",
     "5":"Only supported for installed web apps."
   },
-  "usage_perc_y":8.4,
-  "usage_perc_a":70.4,
+  "usage_perc_y":8.26,
+  "usage_perc_a":67.75,
   "ucprefix":false,
   "parent":"",
   "keywords":"",

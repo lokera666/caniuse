@@ -413,7 +413,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -664,7 +665,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -680,7 +681,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -736,7 +737,7 @@
     "1":"Can be enabled via the \"Experimental Web Platform features\" flag at `about:flags`.",
     "2":"Can be enabled via the `dom.importMaps.enabled` pref in `about:config`."
   },
-  "usage_perc_y":96.03,
+  "usage_perc_y":94.74,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

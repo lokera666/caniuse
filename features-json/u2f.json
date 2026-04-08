@@ -422,7 +422,8 @@
       "146":"n",
       "147":"n",
       "148":"n",
-      "149":"n"
+      "149":"n",
+      "150":"n"
     },
     "safari":{
       "3.1":"n",
@@ -673,7 +674,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"n",
@@ -689,7 +690,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"n"
+      "147":"n"
     },
     "and_ff":{
       "149":"y"
@@ -746,7 +747,7 @@
     "2":"Support can be enabled with the `security.webauth.u2f` flag",
     "3":"Supported [via the internal CryptoTokenExtension.](https://github.com/google/u2f-ref-code/blob/master/u2f-gae-demo/war/js/u2f-api.js)"
   },
-  "usage_perc_y":17.51,
+  "usage_perc_y":19.21,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

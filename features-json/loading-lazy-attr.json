@@ -428,7 +428,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -679,7 +680,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -695,7 +696,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"y"
@@ -752,8 +753,8 @@
     "2":"Can be enabled in Settings under the Safari > Advanced > Experimental Features menu.",
     "3":"Safari supports lazy image loading. Lazy iframes loading can be enabled under the Experimental Features menu."
   },
-  "usage_perc_y":96.06,
-  "usage_perc_a":0.78,
+  "usage_perc_y":94.77,
+  "usage_perc_a":0.75,
   "ucprefix":false,
   "parent":"",
   "keywords":"lazy-loading,lazyloading,loading=\"lazy\",loading=\"eager\",loading=\"auto\",loading,attribute,lazily,lazy image loading,lazy img loading,iframe loading,native lazyload",

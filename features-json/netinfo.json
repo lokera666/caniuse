@@ -402,7 +402,8 @@
       "146":"a #4",
       "147":"a #4",
       "148":"a #4",
-      "149":"a #4"
+      "149":"a #4",
+      "150":"a #4"
     },
     "safari":{
       "3.1":"n",
@@ -653,7 +654,7 @@
       "4.2-4.3":"a #1",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -669,7 +670,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"n"
@@ -727,8 +728,8 @@
     "3":"Only supports the `type` and `downlinkMax` values.",
     "4":"Only supports the `downlink`, `effectiveType` & `rtt` values."
   },
-  "usage_perc_y":45.81,
-  "usage_perc_a":32.94,
+  "usage_perc_y":48.58,
+  "usage_perc_a":27.38,
   "ucprefix":false,
   "parent":"",
   "keywords":"performance,network,network information,netinfo",

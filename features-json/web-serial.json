@@ -413,7 +413,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -664,7 +665,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"n",
@@ -680,7 +681,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"y #1"
+      "147":"y #1"
     },
     "and_ff":{
       "149":"n"
@@ -735,7 +736,7 @@
   "notes_by_num":{
     "1":"Supported on Android [over Bluetooth RFCOMM](https://developer.chrome.com/release-notes/138#web_serial_over_bluetooth_on_android)."
   },
-  "usage_perc_y":75.01,
+  "usage_perc_y":72.06,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",

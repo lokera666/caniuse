@@ -421,7 +421,8 @@
       "146":"y",
       "147":"y",
       "148":"y",
-      "149":"y"
+      "149":"y",
+      "150":"y"
     },
     "safari":{
       "3.1":"n",
@@ -672,7 +673,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"y"
+      "147":"y"
     },
     "bb":{
       "7":"n",
@@ -688,7 +689,7 @@
       "80":"y"
     },
     "and_chr":{
-      "146":"y"
+      "147":"y"
     },
     "and_ff":{
       "149":"n"
@@ -743,8 +744,8 @@
   "notes_by_num":{
     "1":"Video-only support"
   },
-  "usage_perc_y":89.84,
-  "usage_perc_a":5.67,
+  "usage_perc_y":88.7,
+  "usage_perc_a":5.51,
   "ucprefix":false,
   "parent":"",
   "keywords":"VideoDecoder,AudioDecoder,VideoEncoder,AudioEncoder,EncodedAudioChunk,EncodedVideoChunk,AudioData,VideoFrame,VideoColorSpace,ImageDecoder,ImageTrackList,ImageTrack",

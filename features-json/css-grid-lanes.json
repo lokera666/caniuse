@@ -401,7 +401,8 @@
       "146":"p d #1",
       "147":"p d #1",
       "148":"p d #1",
-      "149":"p d #1"
+      "149":"p d #1",
+      "150":"p d #1"
     },
     "safari":{
       "3.1":"n",
@@ -652,7 +653,7 @@
       "4.2-4.3":"n",
       "4.4":"n",
       "4.4.3-4.4.4":"n",
-      "146":"n"
+      "147":"n"
     },
     "bb":{
       "7":"n",
@@ -668,7 +669,7 @@
       "80":"n"
     },
     "and_chr":{
-      "146":"p d #1"
+      "147":"p d #1"
     },
     "and_ff":{
       "149":"p d #1"
@@ -723,7 +724,7 @@
   "notes_by_num":{
     "1":"An earlier version of the spec available behind a flag."
   },
-  "usage_perc_y":0.02,
+  "usage_perc_y":0.32,
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
